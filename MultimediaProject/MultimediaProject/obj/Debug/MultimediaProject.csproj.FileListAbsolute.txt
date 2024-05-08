@@ -1,0 +1,24 @@
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.csprojAssemblyReference.cache
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.Game.resources
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.Properties.Resources.resources
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.csproj.GenerateResource.cache
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.csproj.CoreCompileInputs.cache
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.exe.config
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.exe
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.pdb
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.exe
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\ICAE03\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.pdb
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.exe.config
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.exe.manifest
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.application
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.exe
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\bin\Debug\MultimediaProject.pdb
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.csprojAssemblyReference.cache
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.Game.resources
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.Properties.Resources.resources
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.csproj.GenerateResource.cache
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.csproj.CoreCompileInputs.cache
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.exe.manifest
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.application
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.exe
+F:\2. Lectures and notes\3rd year\2nd semester\IT3252 Multimedia Computing\Multimedia Computing - Group project\MultimediaProject\MultimediaProject\obj\Debug\MultimediaProject.pdb

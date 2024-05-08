@@ -1,0 +1,10 @@
+Game :
+
+1. 	Blue color squre is the player.
+2.	Collect all the yellow coins without intersection with pink squres. 
+3.	when intersection with pink squres you goes fail to tast. 
+4.	collect all the coins and reach to green door then task is complete.
+5.	you can use,
+		space key : to jump player
+		use left and right arrow key for move player
+		enter key : restart game
